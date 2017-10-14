@@ -9,13 +9,13 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 ## Demo
 
-The demo of the burger eating application can be found [here](https://secret-lake-55615.herokuapp.com/).
+The demo of the burger eating application can be found [here](https://agile-ravine-12602.herokuapp.com/).
 
 ## Installation
 
 To run the application locally, first clone this repository with the following command.
 
-	git clone git@github.com:angrbrd/eat-da-burger.git
+	git clone https://github.com/willieching11/burger.git
 	
 Next, install the application dependencies.
 
